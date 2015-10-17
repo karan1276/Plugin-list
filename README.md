@@ -18,4 +18,8 @@ This to have before i begin my TF projects.
 #organization
 - list all logically seprate website modules. (navigation, img gallary, footer ...etc), then make boilerplate for all of them.
 
+#practice
+Make some "magical", refer to followinf sites:
+-  http://delimondo2.html.themeforest.createit.pl/delimondo/index.html
+-  http://demo.uxart.io/videocafe/
 
