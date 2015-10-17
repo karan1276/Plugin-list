@@ -1,5 +1,5 @@
 # Plugin-list
-This to have before i begin my TF projects.
+These things should be set before i begin mt TF projects.
 
 #workflow
 - Have src and dist folders.
@@ -24,4 +24,5 @@ This to have before i begin my TF projects.
 Make some "magical", refer to followinf sites:
 -  http://delimondo2.html.themeforest.createit.pl/delimondo/index.html
 -  http://demo.uxart.io/videocafe/
+-  http://jellythemes.com/themes/elixir/
 
