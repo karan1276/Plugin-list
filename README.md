@@ -14,6 +14,8 @@ This to have before i begin my TF projects.
 - Slider bloilerplate code, flexslider is good but look sore some others.
 - Form fieldwith icons boilerplate code.
 - Find a good sorting plugin (Tagsort is not enough)
+- Date picker
+- Time picker
 
 #organization
 - list all logically seprate website modules. (navigation, img gallary, footer ...etc), then make boilerplate for all of them.
